@@ -1,0 +1,10 @@
+0 Ariel Powder Detergent
+1 Fasclean Fabric Conditioner
+2 Fasclean Anti-Bacterial
+3 Surf Powder Sun Fresh 
+4 Surf Powder Cherry Blossom
+5 Surf Powder Kalamansi
+6 Surf Powder Purple Blossom
+7 Surf Powder Tawas
+8 Surf Powder Anti-Bacterial
+9 Tide Perfect Clean
